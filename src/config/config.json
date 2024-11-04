@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Blog by Rudiger Wolf",
-    "base_url": "https://www.rnwolf.net",
+    "title": "Blog by Oskar Wolf",
+    "base_url": "https://www.oskarwolf.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/favicon.ico",
@@ -17,10 +17,10 @@
   },
 
   "metadata": {
-    "meta_author": "Rüdiger Wolf",
+    "meta_author": "Oskar Wolf",
     "meta_image": "/images/rnwolf-blog-og-image.png",
     "meta_image_alt": "Artistic diagram of a head",
-    "meta_description": "Blog for Rüdiger Wolf"
+    "meta_description": "Blog for Oskar Wolf"
   },
 
   "params": {
@@ -29,8 +29,8 @@
   },
 
   "contactinfo": {
-    "address": "Clophill<br/> United Kingdom",
-    "email": "rudi@rnwolf.net",
-    "phone": "+44-7771678634"
+    "address": "Port Elizabeth<br/> South Africa",
+    "email": "contact@oskarwolf.com",
+    "phone": "+27-718684380"
   }
 }
