@@ -1,5 +1,5 @@
 ---
-title: "I’m Rüdiger Wolf, a product delivery manager."
+title: "I’m Oskar Wolf, a data scientist, entrepreneur and chef."
 meta_title: "About"
 image: "/images/rnwolf-with-wings.jpg"
 draft: false
