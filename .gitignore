@@ -56,9 +56,8 @@ typings/
 # dotenv environment variables file
 .env
 
-# generated files
-.cache/
-dist
+# distribution files
+dist/
 
 # Mac files
 .DS_Store
@@ -71,3 +70,4 @@ yarn-error.log
 .yarn-integrity
 
 .netlify/
+
