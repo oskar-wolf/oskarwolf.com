@@ -1,7 +1,7 @@
 ---
 title: "I’m Oskar Wolf, a data scientist, entrepreneur and chef."
 meta_title: "About"
-image: "/images/rnwolf-with-wings.jpg"
+image: "/images/ocwolf_dinner.jpg"
 draft: false
 
 what_i_do:

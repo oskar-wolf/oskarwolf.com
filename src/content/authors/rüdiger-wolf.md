@@ -1,6 +1,6 @@
 ---
-title: Rüdiger Wolf
-image: /images/authors/2019-12-06_rnwolf_photo.jpg
+title: Oskar Wolf
+image: /images/authors/author_image_ocwolf.jpg
 description: Photo of Rüdiger
 social:
   twitter: https://x.com/rnwolf
