@@ -1,13 +1,13 @@
 ---
 title: Oskar Wolf
 image: /images/authors/author_image_ocwolf.jpg
-description: Photo of Rüdiger
+description: Photo of Oskar
 social:
-  twitter: https://x.com/rnwolf
-  linkedin: https://www.linkedin.com/in/rudigerwolf
+  #twitter: https://x.com/rnwolf
+  linkedin: https://www.linkedin.com/in/oskar-wolf-981594139/
   gitlab: https://abc.com
-  facebook: https://facebook.com/rnwolf
-  youtube: https://youtube.com/@rudigerwolf
+  facebook: https://www.facebook.com/OskarWolf1997/
+  youtube: https://www.youtube.com/@oskarwolf2153
   
 
 ---
